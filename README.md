@@ -10,7 +10,7 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 ## Education
 
-**Professional Certificate IBM Data Science (Coursera) (2023)** 
+**Professional Certificate IBM Data Science (Coursera) (2023)**
 **Data Scientist in Python by dataquest.io (2022 - 2023)**
 **Professional Certificate in IBM Deep Learning (2021)**
 **Master in Multimedia Operator Software. IDEP School. (500h) 2004-2005**
