@@ -1,14 +1,5 @@
 # Data Science
 
-# [Your Name]
-
-[Your Address]  
-[City, State, ZIP Code]  
-[Email Address]  
-[Phone Number]  
-[LinkedIn Profile]  
-[GitHub Profile]
-
 ---
 
 ## Summary
@@ -19,13 +10,13 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 ## Education
 
-**Master of Science in Data Science**  
-[University Name], [City, State]  
-[Month, Year] - [Month, Year]
+** Professional Certificate IBM Data Science (Coursera) (2023) **
+** Data Scientist in Python by dataquest.io (2022 - 2023) **
+** Professional Certificate in IBM Deep Learning (2021) **
+** Master in Multimedia Operator Software. IDEP School. (500h) 2004-2005 **
+** Bachelor’s degree in Audiovisual Media. Escola Universitaria Politécnica Mataró. 2011 **
 
-**Bachelor of Science in Computer Science**  
-[University Name], [City, State]  
-[Month, Year] - [Month, Year]
+
 
 ---
 
