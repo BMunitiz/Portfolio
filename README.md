@@ -35,19 +35,19 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 ## Projects
 
-**[Classification Model](MCFS_classification.ipynb)**
+**[Classification Model](https://github.com/BMunitiz/MCFS-Classification/blob/b2f3d854ff1194664a3c745a83a67028fb980244/MCFS_classification.ipynb)**
 
 - Classification model for a medical dataset.
 
-**[Image Classification Model](Garbage_classifier.ipynb)**
+**[Image Classification Model](https://github.com/BMunitiz/Computer-vision/blob/f9bef3791f26b33a3322acafadd1c2dceee0d071/Garbage_classifier.ipynb)**
 
 - Developed and trained an image classifier using TensorFlow and Keras.
 
-**[NLP (text generation)](GPT2.ipynb)**
+**[NLP (text generation)](https://github.com/BMunitiz/NLP/blob/695b06411c93df893de39a4ba75c81084e317c4a/GPT2.ipynb)**
 
 - Built and generate text using GPT2 and GPT generation text from scratch using Keras.
 
-**[NLP (text generation)](text_LSTM.ipynb)**
+**[NLP (text generation)](https://github.com/BMunitiz/NLP/blob/695b06411c93df893de39a4ba75c81084e317c4a/text_LSTM.ipynb)**
 
 - Text generation from scratch using LSTM model.
 
