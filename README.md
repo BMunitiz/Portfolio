@@ -69,8 +69,14 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 ## Certifications
 
-- [Certification Name], [Issuing Organization], [Year]
-- [Certification Name], [Issuing Organization], [Year]
+- Applied AI with DeepLearning (Coursera) 2024
+- IBM AI Engineering Professional Certificate (Coursera) 2024
+- IBM Computer Vision and Image Processing (Coursera) 2024
+- IBM Advanced Machine Learning and Signal Processing (Coursera) 2024
+- Professional certificate Data Science IBM (Coursera), 2023
+- Data Scientist with Python Dataquest.io, 2022 - 2023
+- Professional certificate Deep Learning IBM, 2021
+
 
 ---
 
