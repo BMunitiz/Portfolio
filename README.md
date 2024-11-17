@@ -23,7 +23,7 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 ## Technical Skills
 
-- **Programming Languages:** Python, R
+- **Programming Languages:** Python, SQL
 - **Machine Learning:** Supervised Learning, Unsupervised Learning, Regression Analysis, Classification, Clustering, Dimensional Reduction
 - **Deep Learning:** Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Autoencoders, Restricted Boltzmann Machines
 - **Frameworks and Libraries:** TensorFlow, Keras, PyTorch, scikit-learn, Apache Spark, OpenCV, Pillow, scipy
@@ -35,20 +35,25 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 ## Projects
 
-**Image Classification Model**
+**[Classification Model](MCFS_classification.ipynb)**
+
+- Classification model for a medical dataset.
+
+**[Image Classification Model](Garbage_classifier.ipynb)**
 
 - Developed and trained an image classifier using TensorFlow and Keras.
-- Deployed the classifier in a cloud environment, achieving high accuracy and reliability.
 
-**Big Data ML Pipeline**
+**[NLP (text generation)](GPT2.ipynb)**
 
-- Built and deployed a machine learning pipeline on Apache Spark.
-- Implemented clustering and classification algorithms to analyze large datasets.
+- Built and generate text using GPT2 and GPT generation text from scratch using Keras.
 
-**IoT Data Analysis**
+**[NLP (text generation)](text_LSTM.ipynb)**
 
-- Analyzed data from IoT devices to provide insights into usage patterns and system performance.
-- Developed predictive maintenance models to enhance operational efficiency.
+- Text generation from scratch using LSTM model.
+
+**Geographical Data Analysis**
+
+- 
 
 ---
 
