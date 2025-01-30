@@ -50,10 +50,7 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 **[NLP (text generation)](https://github.com/BMunitiz/NLP/blob/695b06411c93df893de39a4ba75c81084e317c4a/text_LSTM.ipynb)**
 
 - Text generation from scratch using LSTM model.
-
-**Geographical Data Analysis**
-
-- 
+ 
 
 ---
 
