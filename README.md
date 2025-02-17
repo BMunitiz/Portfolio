@@ -39,9 +39,9 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 - [Github repo.](https://github.com/BMunitiz/EDA)
 - [Hugginface Space](https://huggingface.co/spaces/BorjaMun/World_tourism)
 
-**[Classification Model](https://github.com/BMunitiz/MCFS-Classification/blob/b2f3d854ff1194664a3c745a83a67028fb980244/MCFS_classification.ipynb)**
+**Classification for tabular data Model**
 
-- Classification model for a medical dataset.
+- [Classification model for a medical dataset.](https://github.com/BMunitiz/MCFS-Classification/blob/b2f3d854ff1194664a3c745a83a67028fb980244/MCFS_classification.ipynb)
 
 **Image Classification Models**
 
@@ -49,13 +49,11 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 - [Image classifier using Fast AI and Gradio](https://huggingface.co/spaces/BorjaMun/minimal)
   
 
-**[NLP (text generation)](https://github.com/BMunitiz/NLP/blob/695b06411c93df893de39a4ba75c81084e317c4a/GPT2.ipynb)**
+**NLP (text generation)**
 
-- Built and generate text using GPT2 and GPT generation text from scratch using Keras.
+- [Built and generate text using GPT2 and GPT generation text from scratch using Keras.](https://github.com/BMunitiz/NLP/blob/695b06411c93df893de39a4ba75c81084e317c4a/GPT2.ipynb)
 
-**[NLP (text generation)](https://github.com/BMunitiz/NLP/blob/695b06411c93df893de39a4ba75c81084e317c4a/text_LSTM.ipynb)**
-
-- Text generation from scratch using LSTM model.
+- [Text generation from scratch using LSTM model.](https://github.com/BMunitiz/NLP/blob/695b06411c93df893de39a4ba75c81084e317c4a/text_LSTM.ipynb)
  
 
 ---
