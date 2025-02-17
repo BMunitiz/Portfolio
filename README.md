@@ -35,7 +35,7 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 ## Projects
 
-**[Exploratory Data Analysis]**
+**Exploratory Data Analysis**
 - [Github repo.](https://github.com/BMunitiz/EDA)
 - [Hugginface Space](https://huggingface.co/spaces/BorjaMun/World_tourism)
 
