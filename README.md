@@ -35,6 +35,10 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 ## Projects
 
+**[Exploratory Data Analysis]**
+- [Github repo.](https://github.com/BMunitiz/EDA)
+- [Hugginface Space](https://huggingface.co/spaces/BorjaMun/World_tourism)
+
 **[Classification Model](https://github.com/BMunitiz/MCFS-Classification/blob/b2f3d854ff1194664a3c745a83a67028fb980244/MCFS_classification.ipynb)**
 
 - Classification model for a medical dataset.
