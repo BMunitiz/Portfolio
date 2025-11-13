@@ -1,15 +1,16 @@
-# Data Science
+# Data Science & AI
 
 ---
 
 ## Summary
 
-Passionate and results-driven Data Scientist with extensive expertise in Machine Learning, Deep Learning, and Computer Vision. Proficient in utilizing advanced data analysis, modeling techniques, and various machine learning algorithms to derive actionable insights and solutions. Experienced in deploying machine learning models and deep learning architectures using industry-leading libraries and frameworks.
+Passionate and results-driven Data Scientist with extensive expertise in Machine Learning, Deep Learning, and Computer Vision. Proficient in utilizing advanced data analysis, modeling techniques, and various machine learning algorithms to derive actionable insights and solutions. Experienced in deploying machine learning models and deep learning architectures using industry-leading libraries and frameworks. Deep expertise in LLM and AI Agent creation and orchestration.
 
 ---
 
 ## Education
 
+- **IT Academy Data Analytics (Barcelona Activa) 2025**
 - **IBM AI Engineering Specialization (Coursera) (2024)**
 - **Professional Certificate IBM Data Science (Coursera) (2023)**
 - **Data Scientist in Python by dataquest.io (2022 - 2023)**
@@ -26,7 +27,7 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 - **Programming Languages:** Python, SQL
 - **Machine Learning:** Supervised Learning, Unsupervised Learning, Regression Analysis, Classification, Clustering, Dimensional Reduction
 - **Deep Learning:** Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Autoencoders, Restricted Boltzmann Machines
-- **Frameworks and Libraries:** TensorFlow, Keras, PyTorch, scikit-learn, Apache Spark, OpenCV, Pillow, scipy
+- **Frameworks and Libraries:** TensorFlow, Keras, PyTorch, scikit-learn, Apache Spark, OpenCV, Pillow, scipy, LLM, AI Agents frameworks
 - **Data Analysis:** Statistical Data Analysis, Data Modeling, Data Mining, Data Visualization
 - **Big Data Technologies:** Apache Spark
 - **Other Technologies:** Digital Signal Processing, Internet of Things (IoT)
@@ -56,7 +57,9 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 **AI Agents & LLM**
 
-- 
+- [Agno Assist Agent - Streamlit GUI](https://github.com/BMunitiz/Ollama_GUI_Agent)
+  
+- [Desktop chat application built with PyQt5](https://github.com/BMunitiz/Ollama_PyQt5)
  
 
 ---
@@ -74,7 +77,6 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 ## Certifications
 
-- IT Academy Data Analytics (Barcelona Activa) 2025
 - Applied AI with DeepLearning (Coursera) 2024
 - IBM AI Engineering Professional Certificate (Coursera) 2024
 - IBM Computer Vision and Image Processing (Coursera) 2024
