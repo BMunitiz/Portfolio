@@ -41,11 +41,11 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 **Classification for tabular data Model**
 
-- [Classification model for a medical dataset.](https://github.com/BMunitiz/MCFS-Classification/blob/b2f3d854ff1194664a3c745a83a67028fb980244/MCFS_classification.ipynb)
+- [Classification model for a medical dataset.](https://github.com/BMunitiz/MCFS-Classification)
 
 **Image Classification Models**
 
-- [Developed and trained an image classifier using TensorFlow and Keras.](https://github.com/BMunitiz/Computer-vision/blob/f9bef3791f26b33a3322acafadd1c2dceee0d071/Garbage_classifier.ipynb)
+- [Developed and trained an image classifier using TensorFlow and Keras.](https://github.com/BMunitiz/Computer-vision)
 - [Image classifier using Fast AI and Gradio](https://huggingface.co/spaces/BorjaMun/minimal)
   
 
