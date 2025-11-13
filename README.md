@@ -8,6 +8,12 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 ---
 
+**Contact**
+
+- borja.munitiz@gmail.com
+
+---
+
 ## Education
 
 - **IT Academy Data Analytics (Barcelona Activa) 2025**
@@ -17,8 +23,6 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 - **Professional Certificate in IBM Deep Learning (2021)**
 - **Master in Multimedia Operator Software. IDEP School. (500h) 2004-2005**
 - **Bachelor’s degree in Audiovisual Media. Escola Universitaria Politécnica Mataró. 2011**
-
-
 
 ---
 
