@@ -42,6 +42,7 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 **Data Analysis**
 - [World Travel Data Dashboard](https://github.com/BMunitiz/EDA) [- Try the App -](https://huggingface.co/spaces/BorjaMun/World_tourism)
+- [Comprehensive analysis of unemployment data in Spain during the period 2021-2024](https://github.com/BMunitiz/IT-Academy/blob/main/Proyecto/paper.pdf)
 
 **Classification for tabular data Model**
 
@@ -56,13 +57,11 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 **NLP (text generation)**
 
 - [Built and generate text using GPT2 and GPT generation text from scratch using Keras](https://github.com/BMunitiz/GPT-fromscratch)
-
 - [Text generation from scratch using LSTM model](https://github.com/BMunitiz/NLP)
 
 **AI Agents & LLM**
 
 - [Agno Assist Agent - Streamlit GUI](https://github.com/BMunitiz/Ollama_GUI_Agent)
-  
 - [Desktop chat application built with PyQt5](https://github.com/BMunitiz/Ollama_PyQt5)
  
 
