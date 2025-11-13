@@ -36,29 +36,34 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 ## Projects
 
 **Data Analysis**
-- [World Travel Data Dashboard](https://github.com/BMunitiz/EDA) [Try the App](https://huggingface.co/spaces/BorjaMun/World_tourism)
+- [World Travel Data Dashboard](https://github.com/BMunitiz/EDA) [- Try the App -](https://huggingface.co/spaces/BorjaMun/World_tourism)
 
 **Classification for tabular data Model**
 
-- [Classification model for a medical dataset.](https://github.com/BMunitiz/MCFS-Classification)
+- [Classification model for a medical dataset](https://github.com/BMunitiz/MCFS-Classification)
 
 **Image Classification Models**
 
-- [Developed and trained an image classifier using TensorFlow and Keras.](https://github.com/BMunitiz/Computer-vision)
-- [Image classifier using Fast AI and Gradio](https://huggingface.co/spaces/BorjaMun/minimal)
+- [Developed and trained an image classifier using TensorFlow and Keras](https://github.com/BMunitiz/Computer-vision)
+- [Image classifier App using Fast AI and Gradio](https://huggingface.co/spaces/BorjaMun/minimal)
   
 
 **NLP (text generation)**
 
-- [Built and generate text using GPT2 and GPT generation text from scratch using Keras.](https://github.com/BMunitiz/NLP/blob/695b06411c93df893de39a4ba75c81084e317c4a/GPT2.ipynb)
+- [Built and generate text using GPT2 and GPT generation text from scratch using Keras](https://github.com/BMunitiz/GPT-fromscratch)
 
-- [Text generation from scratch using LSTM model.](https://github.com/BMunitiz/NLP/blob/695b06411c93df893de39a4ba75c81084e317c4a/text_LSTM.ipynb)
+- [Text generation from scratch using LSTM model](https://github.com/BMunitiz/NLP)
+
+**AI Agents & LLM**
+
+- 
  
 
 ---
 
 ## Relevant Coursework
 
+- **Data Analysis:** Proficient in data analysis using SQL and Python, with applied statistics and Power BI for strategic dashboards. Experienced in agile methodologies and collaborative business simulations to drive data-driven decision-making.
 - **Machine Learning:** Explored various ML techniques such as regression, classification, clustering, and recommender systems. Built, tested, and deployed models using libraries like Keras, PyTorch, and TensorFlow.
 - **Deep Learning:** Gained knowledge in different deep architectures such as convolutional networks, recurrent networks, and autoencoders. Applied TensorFlow for back propagation, tuning weights and biases during training.
 - **Computer Vision:** Developed a solid understanding of computer vision and its applications across various industries. Utilized Python, OpenCV, and Pillow for image processing tasks.
@@ -69,6 +74,7 @@ Passionate and results-driven Data Scientist with extensive expertise in Machine
 
 ## Certifications
 
+- IT Academy Data Analytics (Barcelona Activa) 2025
 - Applied AI with DeepLearning (Coursera) 2024
 - IBM AI Engineering Professional Certificate (Coursera) 2024
 - IBM Computer Vision and Image Processing (Coursera) 2024
